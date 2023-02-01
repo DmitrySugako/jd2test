@@ -11,6 +11,8 @@ public class Main {
         temp.add(15);
         temp.add(13);
         temp.add(17);
+        temp.add(17);
+        temp.add(17);
         for (Integer x : temp) System.out.println(x);
 
 
